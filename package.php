@@ -6,19 +6,16 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>package</title>
 
-   <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
-   <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-   <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
    
-<!-- header section starts  -->
+<!-- header -->
 
 <section class="header">
 
@@ -35,13 +32,13 @@
 
 </section>
 
-<!-- header section ends -->
+<!-- header -->
 
 <div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
    <h1>packages</h1>
 </div>
 
-<!-- packages section starts  -->
+<!-- packages -->
 
 <section class="packages">
 
@@ -187,7 +184,7 @@
 
 </section>
 
-<!-- packages section ends -->
+<!-- packages -->
 
 
 
@@ -204,7 +201,7 @@
 
 
 
-<!-- footer section starts  -->
+<!-- footer -->
 
 <section class="footer">
 
@@ -228,10 +225,10 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +12345678 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +12345678 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> abc@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Rajshahi, Bangladesh</a>
       </div>
 
       <div class="box">
@@ -244,11 +241,11 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> created by <span>AshfAkasif</span> | all rights reserved! </div>
 
 </section>
 
-<!-- footer section ends -->
+<!-- footer -->
 
 
 
@@ -258,10 +255,8 @@
 
 
 
-<!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
-<!-- custom js file link  -->
 <script src="js/script.js"></script>
 
 </body>

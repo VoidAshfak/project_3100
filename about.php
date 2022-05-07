@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -207,10 +207,10 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +12345678 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +12345678 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> abc@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Rajshahi,Bangladesh</a>
       </div>
 
       <div class="box">
@@ -223,7 +223,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> created by <span>AshfAkasif</span> | all rights reserved! </div>
 
 </section>
 
@@ -237,10 +237,9 @@
 
 
 
-<!-- swiper js link  -->
+
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
-<!-- custom js file link  -->
 <script src="js/script.js"></script>
 
 </body>
